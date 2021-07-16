@@ -199,7 +199,7 @@ namespace newRTECreation
                   //int q = 6;
                   // int z = 8;
                 
-               for(int ires=0;ires<3;ires++)
+               for(int ires=0;ires<3;ires++)   // struct size
                 {
                     int l = 0;
                     int m = 1;
